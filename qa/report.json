@@ -1,0 +1,25 @@
+{
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1600,
+      "height": 900,
+      "screenshots": 33,
+      "reactCommitsDuringScroll": 0,
+      "loaded": 239,
+      "links": 31
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "screenshots": 33,
+      "reactCommitsDuringScroll": 0,
+      "loaded": 239,
+      "links": 31
+    }
+  ],
+  "errors": [],
+  "failures": [],
+  "checkedAt": "2026-10-30T01:49:22.268Z"
+}

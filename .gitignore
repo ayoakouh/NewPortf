@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.venv/
+.cache/
+full/
+qa/screenshots/
+qa/contact-sheets/
+__pycache__/
